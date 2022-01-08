@@ -1,0 +1,207 @@
+h3 {
+  text-align: right;
+  margin-right: 30%;
+  font-stretch: extra-condensed;
+  cursor: pointer;
+}
+
+label {
+  color: #ffffff;
+  border-radius: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+
+.App {
+  text-align: center;
+  font-size: 22px;
+  color: #282c34;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 200px;
+  min-height: 8000px;
+}
+
+.nappi {
+  border-radius: 10px;
+  margin-left: 10px;
+  font-size: 26px;
+  background-color: rgb(83, 94, 240);
+  color: white;
+}
+
+.nappi2 {
+  border-radius: 10px;
+  margin-left: 10px;
+  font-size: 26px;
+  background-color: rgb(255, 0, 0);
+  color: white;
+}
+
+.nappi3 {
+  border-radius: 10px;
+  margin-left: 10px;
+  font-size: 26px;
+  background-color: rgb(2, 19, 250);
+  color: white;
+}
+
+.App-header {
+  background-color: black;
+  height: 15%;
+  width: 100%;
+  font-size: 25px;
+  padding: 8px;
+  border-radius: 5px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+}
+
+.navbar {
+  padding: 8px;
+  border-radius: 5px;
+}
+
+table {
+  margin:auto;
+}
+
+table, th, td {
+  border-color: rgb(0, 0, 0);
+  border-style:solid;
+  border-width: 3px;
+  background-color: white;
+  font-size: 27px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2px;
+  border-radius: 4px;
+}
+
+.loginsListTable {
+  width: 100%;
+  margin-left: 2%;
+}
+
+p {
+  border-style: solid;
+  border-radius: 10px;
+  text-align:center; 
+  
+}
+
+.customerWindow {
+  background-color: rgb(122, 121, 121);
+  border-style: solid;
+  width: 85%;
+  margin: auto;
+  margin-bottom: 50px;
+  border-radius: 30px;
+}
+
+form {
+  margin-left: 20%;
+  border-style: solid;
+  border-color: black;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  width: 60%;
+  background: rgb(97, 97, 97);
+  border-radius: 7px;
+}
+
+input {
+  height: 30px;
+  width: 50%;
+  margin-bottom: 6px;
+}
+
+.neg {
+  color: red;
+  background: lightgrey;
+  font-size: 36px;
+  font-weight: bold;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.pos {
+  color: green;
+  background: lightgrey;
+  font-size: 36px;
+  font-weight: bold;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.homepage-header-bg {
+  padding: 8%, 8%, 8%, 8%;
+  margin-top: 7%;
+  font-size: 40px;
+  width: 100%;
+  background-color: red;
+  color: white;
+}
+
+/* Login form */
+
+.login-form {
+width: 30%;
+height: 70px;
+padding-bottom: 0px;
+padding-top: 0px;
+text-align: left;
+margin-left: 60%;
+}
+
+.login-input {
+  font-size: 14px;
+  height: 18px;
+  margin-left: 3px;
+}
+
+ 
+.login-button {
+  margin-left: 4px;
+	background-color:#44c767;
+	border-radius:9px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:1px 8px;
+	text-decoration:none;
+  }
+
+  .cancel-button {
+    margin-left: 2px;
+    background-color: red;
+    border-radius:9px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:14px;
+    padding:1px 5px;
+    text-decoration:none;
+    }
+
+    .käyttäjä-tieto {
+      margin-left: 15%;
+      color: white;
+      min-width: 300px;
+    }
